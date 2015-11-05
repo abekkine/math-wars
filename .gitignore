@@ -1,0 +1,7 @@
+Library/
+Temp/
+MathWars_Data/
+
+*.userprefs
+*.csproj
+*.sln
